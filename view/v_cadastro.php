@@ -4,7 +4,7 @@
 <a href="index.php" class="btn btn-primary">Voltar</a>
 </div>
 
-<div class="container mt-2 bg-white p-3 rounded">
+<div class="container mt-3 bg-white p-3 rounded">
 
  <Form>
     <label class="form-label">Nome</label>
